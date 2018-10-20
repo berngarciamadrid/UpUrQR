@@ -1,0 +1,7 @@
+{
+  "name": "UpUrQR",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
