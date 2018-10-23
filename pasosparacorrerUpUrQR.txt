@@ -1,4 +1,4 @@
-Código fuente de la aplicación QR
+Cï¿½digo fuente de la aplicaciï¿½n QR
 Pasos para correrlo local ( de ser necesario )
 
 1- Descomprimir el archivo
@@ -7,6 +7,6 @@ Pasos para correrlo local ( de ser necesario )
 
 3- Realizar un npm install 
 
-4- Ya podremos correrlo con el ionic serve 
+4- Ya podremos ejecutarlo con el ionic serve 
 
 5- ( Opcional ): ionic platform add ios  // ionic platform add android  para generar los proyectos del Android Studio y XCode
